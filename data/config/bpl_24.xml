@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>24</id>
+  <lang></lang>
+  <title>Shirts</title>
+  <form>sequential</form>
+  <width>295</width>
+  <height>337</height>
+  <banners>
+    <banners_item>
+      <id>29</id>
+      <title>shirts</title>
+      <clid>1</clid>
+      <file_name>b21.jpg</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>350</file_width>
+      <file_height>400</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1636449567</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>

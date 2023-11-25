@@ -1,0 +1,2 @@
+[Fri, 23 Jun 2023 09:29:25 +0700] [tintuc16.webxuquang.com] [103.101.78.119] [Notice(8): Undefined index: title_length] [FILE: /modules/news/blocks/global.block_category.php] [LINE: 112]
+[Fri, 23 Jun 2023 09:29:25 +0700] [tintuc16.webxuquang.com] [103.101.78.119] [Notice(8): Undefined index: catid] [FILE: /modules/news/blocks/global.block_category.php] [LINE: 117]

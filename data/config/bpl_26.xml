@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>26</id>
+  <lang></lang>
+  <title>Săn deal thời trang</title>
+  <form>sequential</form>
+  <width>610</width>
+  <height>231</height>
+  <banners>
+    <banners_item>
+      <id>31</id>
+      <title>Săn deal thời trang</title>
+      <clid>1</clid>
+      <file_name>b41.jpg</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>700</file_width>
+      <file_height>265</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1636450158</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>
